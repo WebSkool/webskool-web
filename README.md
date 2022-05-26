@@ -1,2 +1,2 @@
 # webskool-web
-App web de la plataforma
+App web de la plataforma WebsKool
